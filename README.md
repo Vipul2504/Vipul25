@@ -4,7 +4,6 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vipul Vishwakarma</h1>
 <h3 align="center">I'm a passionate Software Developer Ethusiast from India.</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
 
 ## 🙋‍♂️ About Me
