@@ -4,8 +4,6 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vipul Vishwakarma</h1>
 <h3 align="center">I'm a passionate Software Developer Ethusiast from India.</h3>
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=comfortaa&weight=600&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Nice+to+E-Meet+you!;I'm+Software+Engineer%F0%9F%92%BB;Tech+Travel+Blogger;and+a+Homemade+Chef%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8D%B3)](https://git.io/typing-svg) -->
-
 
 ## 🙋‍♂️ About Me
 
