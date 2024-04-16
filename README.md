@@ -7,7 +7,7 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MERN Projects**
+- 🔭 I’m currently working on **MERN Project**
 
 - 🌱 I’m currently learning **Full Stack development and Data Structures and Algorithms** **
 
