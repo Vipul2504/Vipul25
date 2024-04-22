@@ -3,7 +3,7 @@
 https://i.imgur.com/iXuL1HG.png" height="175px -->
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vipul Vishwakarma</h1>
-<h3 align="center">I'm a passionate Software Developer Ethusiast from India.</h3>
+<h3 align="center">I'm a passionate Software Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
