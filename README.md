@@ -16,7 +16,7 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 - 👨‍💻 All of my projects are available at **My PortFolio**
 - 📫 How to reach me **pawanvishwakarma521@gmail.com**
 
-- ⚡**Passion Make It Possible**
+- ⚡**Passion Make It**
 
 ## 🚀 Languages :
 
